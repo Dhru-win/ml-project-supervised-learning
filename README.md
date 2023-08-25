@@ -21,8 +21,7 @@ The project will involve the following tasks:
 
  ### results 
 
-  - Decision tree yelded 72% accuracy whereas Random forest yelded 74% accuracy
-  - Evenwith high accuracy random forest modal overfits so we will go with the decision tree instead (for now)
+  - Decision tree yelded 72% accuracy whereas Random forest yelded 77% accuracy.
 
   ### future goals 
 
