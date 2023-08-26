@@ -21,8 +21,8 @@ The project will involve the following tasks:
 
  ### results 
 
-  - Decision tree yelded 72% accuracy whereas Random forest yelded 77% accuracy.
+  - Decision tree yelded 72% accuracy whereas Random forest yelded 76% accuracy.
 
   ### future goals 
 
--will do more advanced feature engeneering and data transformation of features and make some tweaks in the modal to imporove accuracy of both models
+-will do more advanced feature engeneering and data transformation of features and make some tweaks in the modal to imporove accuracy of both models. Moreover, I would like to test out different models for the project
