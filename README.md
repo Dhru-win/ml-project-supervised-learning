@@ -13,7 +13,7 @@ The project will involve the following tasks:
 
  To use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements.
  
-### Processes
+ ### Processes
 
 
 1. Exploratory data analysis
@@ -26,17 +26,17 @@ The project will involve the following tasks:
 
  ### Results 
 
-  * Decision Tree 
+  #### Decision Tree 
 
   **Accuracy Score = 72 %**
 
   **Precision accuracy = 57%**
   **Recall accuracy = 58%**
 
-  * Random forest 
+  #### Random forest 
 
   **Accuracy Score**
 
-  **Precision Accuracy = 71%**
+  __Precision Accuracy = 71%__
   **Recall Accuracy = 43%**
   
