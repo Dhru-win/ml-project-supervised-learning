@@ -30,12 +30,12 @@ The project will involve the following tasks:
 
   **Accuracy Score = 72 %**
 
-  **Precision accuracy = 57%**
-  **Recall accuracy = 58%**
+  **Precision accuracy = 58%**
+  **Recall accuracy = 59%**
 
   #### Random forest 
 
-  **Accuracy Score**
+  **Accuracy Score = 76**
 
   __Precision Accuracy = 71%__
   **Recall Accuracy = 43%**
